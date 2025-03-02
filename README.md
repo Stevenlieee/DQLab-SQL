@@ -1,2 +1,2 @@
-# DQLab---SQL
+# DQLab-SQL
 study at DQLab-SQL
